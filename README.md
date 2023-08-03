@@ -25,4 +25,12 @@ By following these steps, we will gain insights into the relationship between mo
  
 
 
+# [Multiple Linear Regression for Customer Behavior Prediction](https://github.com/computerscienceiscool/MultipleLinearRegression)
+<!--![Graph of Montly Charge vs Monthly Income](MonthlyChargeIncome.jpg) -->
+<img src="MLR" alt="Alternate Text" width="300"/>
 
+
+
+This Python code analysis delves into the usage of predictive analytics, specifically applying multiple logistic regression for customer behavior prediction in terms of bandwidth usage. The primary objective is to employ proactive strategies to predict churn usage, thereby optimizing the customer experience.
+
+The analysis seeks to test a hypothesis: Can we use logistic regression as an efficient tool to predict churn usage given a specific dataset?
