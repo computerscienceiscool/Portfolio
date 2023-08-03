@@ -25,9 +25,9 @@ By following these steps, we will gain insights into the relationship between mo
  
 
 
-# [Multiple Linear Regression for Customer Behavior Prediction](https://github.com/computerscienceiscool/MultipleLinearRegression)
+# [Multiple Linear Regression for Customer Behavior Prediction](https://github.com/computerscienceiscool/Portfolio)
 <!--![Graph of Montly Charge vs Monthly Income](MonthlyChargeIncome.jpg) -->
-<img src="MLR" alt="Alternate Text" width="300"/>
+<img src="MLR.jpg" alt="Alternate Text" width="300"/>
 
 
 
