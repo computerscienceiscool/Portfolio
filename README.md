@@ -8,10 +8,6 @@ Exploratory Data Analysis (EDA) is a critical step in understanding and interpre
 ### Dataset Description
 Our dataset contains information about telecom customers, including their monthly charge and churn status (whether they have churned or not). We aim to explore whether the monthly charge has a discernible impact on churn.
 
-### Steps in the Exploratory Data Analysis
-
-1. **Loading the Dataset**: We will begin by loading the dataset into a Pandas DataFrame for further analysis.
-
 2. **Data Cleaning and Preparation**: In this step, we will handle any missing values, perform data transformations, and prepare the dataset for analysis.
 
 3. **Univariate Analysis**: We will visualize the distribution of the monthly charge using a histogram or kernel density plot. This will provide insights into the range, central tendency, and spread of the charges.
