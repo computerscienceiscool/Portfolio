@@ -21,3 +21,11 @@ By following these steps, we will gain insights into the relationship between mo
 This Python code analysis delves into the usage of predictive analytics, specifically applying multiple logistic regression for customer behavior prediction in terms of bandwidth usage. The primary objective is to employ proactive strategies to predict churn usage, thereby optimizing the customer experience.
 
 The analysis seeks to test a hypothesis: Can we use logistic regression as an efficient tool to predict churn usage given a specific dataset?
+
+
+# [TestingTheSplit](https://github.com/computerscienceiscool/TestingTheSplit)
+<!--![Testing the Split](Split.jpg) -->
+<img src="MLR.jpg" alt="Alternate Text" width="300"/>
+Testing several split methods with the same input.  This is a work in progress and it needs to be cleaned.
+
+The different methods of splits include K Fold, Shuffle Split, Group Shuffle Split, Group K Fold, and the Time Series Split
