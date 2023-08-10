@@ -1,5 +1,5 @@
 # Portfolio
-Example data science portfolio
+Example data science portfolio 
 # [EDA:T-test to Evaluate the Impact of Monthly Charge on Churn](https://github.com/computerscienceiscool/EDA)
 <!--![Graph of Montly Charge vs Monthly Income](MonthlyChargeIncome.jpg) -->
 <img src="MonthlyChargeIncome.jpg" alt="Alternate Text" width="300"/>
@@ -13,7 +13,7 @@ By following these steps, we will gain insights into the relationship between mo
 
 
 # [Multiple Linear Regression for Customer Behavior Prediction](https://github.com/computerscienceiscool/Portfolio)
-<!--![Graph of Montly Charge vs Monthly Income](MonthlyChargeIncome.jpg) -->
+<!--![Graph of Montly Charge vs Monthly Income](MonthlyChargeIncome.jpg) --> 
 <img src="MLR.jpg" alt="Alternate Text" width="300"/>
 
 
