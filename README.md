@@ -2,7 +2,7 @@
 Example data science portfolio 
 # [EDA:T-test to Evaluate the Impact of Monthly Charge on Churn](https://github.com/computerscienceiscool/EDA)
 <!--![Graph of Montly Charge vs Monthly Income](MonthlyChargeIncome.jpg) -->
-<img src="MonthlyChargeIncome.jpg" alt="Alternate Text" width="300"/>
+<img src="MonthlyChargeIncome.jpg"  alt="Alternate Text" width="300"/>
 
 Exploratory Data Analysis (EDA) is a critical step in understanding and interpreting data before delving into complex modeling or analysis. In this tutorial, we will perform an EDA using Python to examine the relationship between monthly charge and churn in a telecom dataset. Specifically, we will employ a T-test to determine if there is a significant difference in the monthly charges between customers who churn and those who do not.  
 
